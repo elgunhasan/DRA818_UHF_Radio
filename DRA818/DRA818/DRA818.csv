@@ -1,0 +1,66 @@
+Part,Value,Package,Description,AVAILABILITY,DESCRIPTION,MF,MP,MPN,OC_FARNELL,OC_NEWARK,PACKAGE,POPULARITY,PRICE,PROD_ID,SF_ID,SF_SKU,SPICEPREFIX,VALUE
+-V+,,1X02,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,,,,,,,,
+C1,0.1uF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C2,0.1uF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C3,0.1uF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C4,0.1uF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+�e4,0.1uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C6,0.22uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C7,1uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C8,47uF,CPOL-RADIAL-2.5MM-6.5MM,100µF polarized capacitors,,,,,,,,,,,CAP-08439,,,,100uF
+C9,10pF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C10,10pF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C11,2.4pF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C12,2.4pF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C13,***,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C14,0.1uF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C15,0.1uF,1206,1µF ceramic capacitors,,,,,,,,,,,CAP-09822,,,,1.0uF
+C16,0.1uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C17,0.1uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C18,0.1uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C19,0.22uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C20,0.22uF,CAP-PTH-SMALL-KIT,0.1µF ceramic capacitors,,,,,,,,,,,CAP-08370,,,,0.1uF
+C21,47uF,CPOL-RADIAL-2.5MM-6.5MM,100µF polarized capacitors,,,,,,,,,,,CAP-08439,,,,100uF
+C22,220uF,CPOL-RADIAL-2.5MM-6.5MM,100µF polarized capacitors,,,,,,,,,,,CAP-08439,,,,100uF
+C23,220uF,CPOL-RADIAL-2.5MM-6.5MM,100µF polarized capacitors,,,,,,,,,,,CAP-08439,,,,100uF
+D1,,DIODE-1N4001,Diode,,,,,,,,,,,DIO-09176,,,,1A/50V/1.1V
+D2,,DIODE-1N4001,Diode,,,,,,,,,,,DIO-09176,,,,1A/50V/1.1V
+D3,1N4148,DIODE-1N4148,Diode,,,,,,,,,,,DIO-08378,,,,200mA/100V/1V
+D4,1N4148,DIODE-1N4148,Diode,,,,,,,,,,,DIO-08378,,,,200mA/100V/1V
+IC1,7805TV,TO220V,Positive VOLTAGE REGULATOR,,,,,,,,,57,,,,,,
+IC2,78L05Z,TO92,Positive VOLTAGE REGULATOR,,,,,,,,,12,,,,,,
+ISP,,2X3_OFFSET,AVR ISP 6 Pin,,,,,,,,,,,,,,,
+J8,RJ45,RJ45-8,RJ45 Jack - 8 pin,,,,,,,,,,,CONN-08506,PRT-00643,,,RJ45
+JP1,,JP2Q,JUMPER,,,,,,,,,2,,,,,,
+L1,,0207/5V,"INDUCTOR, American symbol",,,,,,,,,0,,,,,L,
+L2,,0207/5V,"INDUCTOR, American symbol",,,,,,,,,0,,,,,L,
+L3,,0207/5V,"INDUCTOR, American symbol",,,,,,,,,0,,,,,L,
+LED1,,LED5MM,LED,,,,,,,,,,,,,,,
+LED2,,LED5MM,LED,,,,,,,,,,,,,,,
+OLED,128x64px,1X04,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,,,,CONN-09696,,,,
+R1,4k7,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R2,10k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R3,47R,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R4,680R,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R5,1k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R6,1k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R7,2.7k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R8,2.7k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R9,2.7k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R10,2.7k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R11,4.7k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+R12,5.6k,AXIAL-0.3,Generic Resistor Package,,,,,,,,,,, ,,,, 
+S1,,TACTILE_SWITCH_PTH_6.0MM,Momentary Switch (Pushbutton) - SPST,,,,,,,,,,, SWCH-08441,,COM-00097,,
+S2,,TACTILE_SWITCH_PTH_6.0MM,Momentary Switch (Pushbutton) - SPST,,,,,,,,,,, SWCH-08441,,COM-00097,,
+S3,,TACTILE_SWITCH_PTH_6.0MM,Momentary Switch (Pushbutton) - SPST,,,,,,,,,,, SWCH-08441,,COM-00097,,
+S4,,TACTILE_SWITCH_PTH_6.0MM,Momentary Switch (Pushbutton) - SPST,,,,,,,,,,, SWCH-08441,,COM-00097,,
+SPKR,8 Ohms,1X02,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,,,,,,,,,,,,,,
+SW1,EC12E_SW,ALPS_EC12E_SW,ALPS rotary Encoder EC12E series with switch,,,,,EC12E2424407,1520813,74M1068,,3,,,,,,
+T1,,TO92-CBE,NPN Transistror,,,,,,,,,0,,,,,,
+T2,,TO92-CBE,NPN Transistror,,,,,,,,,0,,,,,,
+T3,,TO92-CBE,NPN Transistror,,,,,,,,,0,,,,,,
+T4,BC327,TO92-EBC,PNP Transistror,,,,,,,,,1,,,,,,
+U$1,TDA7052A,DIL08,1W Mono audio amplifier Check prices,Bad, Amplifier IC 1-Channel (Mono) Class AB 8-DIP ,NXP USA,"TDA7052A/N2,112",,,,DIP-8 NXP Semiconductors,,None,,,,,
+U1,DRA818V,DORJI_DRA818V,VHF Band Voice Transceiver Module,Unavailable, ,DORJI,DRA818V,,,,Package ,,None,,,,,
+U2,,TQFP32-08,Popular 328P in QFP,,,,,,,,,,,IC-09069,,,,ATMEGA328P_TQFP
+X1,BU-SMA-H,BU-SMA-H,FEMALE SMA CONNECTOR,,,,,,unknown,unknown,,4,,,,,,
